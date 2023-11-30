@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Figma project
+
+https://www.figma.com/file/UtiurQgr5yH1ClbLzDqVHl/2802---React%3A-Praticando-React-com-Js?type=design&node-id=12-2&mode=design&t=u86j8YbcHVi9ab4P-0
+
 ### `npm start`
 
 Runs the app in the development mode.\
