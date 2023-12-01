@@ -17,7 +17,8 @@ export function useFavoritoContext() {
   const { favorito, setFavorito } = useContext(FavoritosContext);
 
   function adicionarFavorito(novoFavorito) {
-    const favoritoRepetido = favorito.some((item) => item.id === novoFavorito);
+    const favoritoRepetido = favorito.some((item) => item.id === novoFavorito.id);
+    
     let novaLista = [...favorito];
 
     if (!favoritoRepetido) {
